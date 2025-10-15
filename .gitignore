@@ -3,3 +3,8 @@ node_modules
 yarn.lock
 target
 .DS_Store
+.anchor
+.surfpool
+**/*.rs.bk
+test-ledger
+.yarn
