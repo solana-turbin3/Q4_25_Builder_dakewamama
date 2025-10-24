@@ -2,7 +2,7 @@ use anchor_lang::{
     prelude::*, system_program::{transfer, Transfer}
 };
 
-declare_id!("GKoLPJ26rCsZemX27KXJJB9foyEZDwKz4jQUVuJYMvBH");
+declare_id!("DjTtANHGGwCg7yXaNMyPqsdaH5PhtkLv62z7d49QAfQ3");
 
 #[program]
 pub mod anchor_vault_q4_25 {
